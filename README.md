@@ -18,3 +18,6 @@ VITE_API_URL=http://localhost:4000/api
 
 ## Deployed on Heroku
 [https://app-merncalendar.herokuapp.com/auth/login](https://app-merncalendar.herokuapp.com/auth/login)
+
+## Backend repository
+[https://github.com/VelazquezBelen/mern-calendar-backend](https://github.com/VelazquezBelen/mern-calendar-backend)
